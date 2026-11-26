@@ -1,7 +1,3 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:6366f1&height=210&section=header&text=Ikbal%20Miftahudin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%203D%20Web%20Builder&descAlignY=62&descSize=18&animation=fadeIn" alt="Ikbal Miftahudin Banner" width="100%" />
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
